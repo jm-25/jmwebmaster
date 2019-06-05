@@ -1,0 +1,20 @@
+/*
+Theme Name:     Thestory-child
+Theme URI:      
+Description:    Thestory child theme.
+Author:         Me
+Author URI:     
+Template:       thestory
+Version:        0.1.1
+*/
+#portfolio-gallery .extra {
+  font-size: 12px;
+  color: #b3b1b1 !important; }
+
+#portfolio-gallery .extra a {
+  display: inline-block; }
+
+form.basin input, form.basin textarea {
+  width: 100%; }
+
+/*# sourceMappingURL=style.map */
